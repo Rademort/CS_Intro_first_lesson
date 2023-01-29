@@ -1,0 +1,15 @@
+C:\Users\ritih\Desktop\CS_Lessons\000\bin\Debug\net7.0\000.exe
+C:\Users\ritih\Desktop\CS_Lessons\000\bin\Debug\net7.0\000.deps.json
+C:\Users\ritih\Desktop\CS_Lessons\000\bin\Debug\net7.0\000.runtimeconfig.json
+C:\Users\ritih\Desktop\CS_Lessons\000\bin\Debug\net7.0\000.dll
+C:\Users\ritih\Desktop\CS_Lessons\000\bin\Debug\net7.0\000.pdb
+C:\Users\ritih\Desktop\CS_Lessons\000\obj\Debug\net7.0\000.csproj.AssemblyReference.cache
+C:\Users\ritih\Desktop\CS_Lessons\000\obj\Debug\net7.0\000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ritih\Desktop\CS_Lessons\000\obj\Debug\net7.0\000.AssemblyInfoInputs.cache
+C:\Users\ritih\Desktop\CS_Lessons\000\obj\Debug\net7.0\000.AssemblyInfo.cs
+C:\Users\ritih\Desktop\CS_Lessons\000\obj\Debug\net7.0\000.csproj.CoreCompileInputs.cache
+C:\Users\ritih\Desktop\CS_Lessons\000\obj\Debug\net7.0\000.dll
+C:\Users\ritih\Desktop\CS_Lessons\000\obj\Debug\net7.0\refint\000.dll
+C:\Users\ritih\Desktop\CS_Lessons\000\obj\Debug\net7.0\000.pdb
+C:\Users\ritih\Desktop\CS_Lessons\000\obj\Debug\net7.0\000.genruntimeconfig.cache
+C:\Users\ritih\Desktop\CS_Lessons\000\obj\Debug\net7.0\ref\000.dll

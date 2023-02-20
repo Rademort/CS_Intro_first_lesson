@@ -8,14 +8,14 @@ namespace GeekBrains
         {
             static void Main()
             {
-                int N=Convert.ToInt32(Console.ReadLine());
-                int k=0;
-                for(int i=0;i<N;i++)
-                    {
-                        int n=int.Parse(Console.ReadLine());
-                        if (n>0) k++;
-                    }
-                System.Console.WriteLine(k);                
+                int N = Convert.ToInt32(Console.ReadLine());
+                int k = 0;
+                for (int i = 0; i < N; i++)
+                {
+                    int n = int.Parse(Console.ReadLine());
+                    if (n > 0) k++;
+                }
+                System.Console.WriteLine(k);
             }
 
         }

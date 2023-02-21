@@ -3,7 +3,7 @@
 // Я вообще не понял, что это и зачем нужно. Код понял, функцию нет
 
 
-int A(int m, int n){
+int A(int n, int m){
     if(m == 0){
         return n+1;
     } else{

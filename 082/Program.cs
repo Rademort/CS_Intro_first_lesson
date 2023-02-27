@@ -1,24 +1,25 @@
 ﻿// C клавиатуры вводится строка разделенная точкой. 
 // Подсчитать количество символов до точки
 
-int CountSymbol(String s)
+int CountSymbol(String s, char c)
 {
     int count = 0;
-    if (s.Contains('.'))
+    if (s.Contains(c))
     {
-        for (int i = 0; i < s.Length; i++)
-        {
-            count = count + 1;
-            if (s[i] == '.')
-            {
-                return count - 1;
-            }
-        }
+        count = s.IndexOf(c);
+        // for (int i = 0; i < s.Length; i++)
+        // {
+        //     count = count + 1;
+        //     if (s[i] == c)
+        //     {
+        //         return count - 1;
+        //     }
+        // }
         return count;
     }
     else
     {
-        System.Console.WriteLine("В строке нет символа .");
+        System.Console.WriteLine($"В строке нет символа {c}");
         return count;
     }
 }
@@ -28,5 +29,5 @@ int CountSymbol(String s)
 
 System.Console.WriteLine("Введите строку: ");
 
-String s = Console.ReadLine();
-System.Console.WriteLine(CountSymbol(s));
+String? s = Console.ReadLine();
+System.Console.WriteLine(CountSymbol(s, '.'));
